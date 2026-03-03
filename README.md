@@ -1,3 +1,3 @@
 # apnacollege-demo
-this is my first repository
+this is my first repository\n
 Author-Chandan Kashyap S
